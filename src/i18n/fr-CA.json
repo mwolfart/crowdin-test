@@ -1,1 +1,42 @@
-{"XYLcNv":"Assistance","cl1/iS":"Besoin d'aide ou avez des questions ? Contactez-nous:","0+41Zq":"24/7 service client","mfnHe/":"1-800-468-5865","ZRVkDq":"customerservice_ca@1800gotjunk.com"}
+[
+    {
+        "identifier": "support.title",
+        "source_string": "Support",
+        "translation": "Assistance",
+        "context": null,
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "support.headline",
+        "source_string": "Need assistance or have questions? Contact us:",
+        "translation": "Besoin d'aide ou avez des questions ? Contactez-nous:",
+        "context": null,
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "support.text",
+        "source_string": "24/7 customer service",
+        "translation": "24/7 service client",
+        "context": null,
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "support.phone",
+        "source_string": "1-800-468-5865",
+        "translation": "1-800-468-5865",
+        "context": null,
+        "labels": "unassigned",
+        "max_length": null
+    },
+    {
+        "identifier": "support.email",
+        "source_string": "customerservice@1800gotjunk.com",
+        "translation": "customerservice_ca@1800gotjunk.com",
+        "context": null,
+        "labels": "unassigned",
+        "max_length": null
+    }
+]
